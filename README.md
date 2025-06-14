@@ -2,35 +2,41 @@
 
 ---
 
-Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş klasik bir 2D Snake Game oyunudur. Oyuncu, yılanı yön tuşlarıyla kontrol eder ve ekrandaki yiyecekleri toplayarak yılanı büyütür. Yılanın sınırlara veya kendine çarpması durumunda oyun sona erer. Bu proje, temel web geliştirme becerilerinizi uygulamak için harika bir örnek sunar.
+This project is a classic 2D Snake Game developed using HTML, CSS, and JavaScript. The player controls the snake using the arrow keys and collects food on the screen to grow the snake. The game ends if the snake hits the walls or itself. This project provides a great example for practicing your fundamental web development skills.
 
 ---
 
-![Snake Game](https://i.hizliresim.com/mmnj9g6.PNG)
+![Snake Game](https://github.com/deryaxacar/SnakeGame-2D/blob/main/snake.PNG)
 
 ---
 
-## Özellikler
+## Features
 
-- **Yön Kontrolü:** Yılanı ok tuşları ile kontrol edin. 🎮
-- **Oyun Duraklatma:** "E" tuşuna basarak oyunu duraklatabilir veya devam ettirebilirsiniz. 🛑
-- **Skor Takibi:** Topladığınız yiyeceklerle skorunuzu arttırın. 🏆
-- **Zorluk Seviyesi:** Yılan büyüdükçe oyun zorlaşır. 📈 
-- **Oyun Sonu:** Yılan sınırlara veya kendine çarptığında oyun sona erer. 💀
+- **Direction Control:** Control the snake using the arrow keys. 🎮  
+- **Pause Game:** Press the "E" key to pause or resume the game. 🛑  
+- **Score Tracking:** Increase your score by collecting food. 🏆  
+- **Difficulty Level:** The game becomes more challenging as the snake grows. 📈  
+- **Game Over:** The game ends if the snake hits the walls or itself. 💀
 
 ---
 
-## Kullanım
+## Usage
 
-1. Bu repository'yi yerel makinenize klonlayın:
+1. Clone this repository to your local machine:
+
 ```bash
    git clone https://github.com/kullaniciadi/2d-snake-game.git
 ```
-2. Proje dosyalarına gidin:
+
+2. Navigate to the project directory:
 ```bash
    cd 2d-snake-game
 ```
-3. `index.html` dosyasını tarayıcınızda açın.
+
+3. Open the `index.html` file in your browser.
 
 ---
-Bu README dosyası Derya ACAR tarafından hazırlanmıştır.
+
+<div align="center">
+  <b>2024 | Created by Derya ACAR</b>
+</div>
