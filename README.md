@@ -1,6 +1,8 @@
-<h2 align="center">2D Snake Game 🐍</h2> 
-
----
+<!-- Project Logo or Image -->
+<div align="center">
+  <h1>2D Snake Game 🐍</h1>
+  <a target="blank"><img src="https://github.com/deryaxacar/DraggableCalculator/blob/main/html-css-js.png" height="110" width="110" /></a>
+</div>
 
 This project is a classic 2D Snake Game developed using HTML, CSS, and JavaScript. The player controls the snake using the arrow keys and collects food on the screen to grow the snake. The game ends if the snake hits the walls or itself. This project provides a great example for practicing your fundamental web development skills.
 
